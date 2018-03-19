@@ -1,0 +1,7 @@
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.csprojResolveAssemblyReference.cache
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.csproj.CoreCompileInputs.cache
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.exe.config
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.exe
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.pdb
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.exe
+C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.pdb
