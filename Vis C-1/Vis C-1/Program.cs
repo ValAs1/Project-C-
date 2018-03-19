@@ -38,6 +38,18 @@ namespace Vis_C_1
             var myT1 = "test";
             Console.WriteLine(myT1);
 
+            //int r = 0;
+            //while (r <= 12)
+            //{
+            //    Console.WriteLine(r++);
+            //}
+
+            int r = 0;
+            do
+            {
+                Console.WriteLine(r);
+            }
+            while (++r <= 12);
             Console.ReadLine();
         }
     }
