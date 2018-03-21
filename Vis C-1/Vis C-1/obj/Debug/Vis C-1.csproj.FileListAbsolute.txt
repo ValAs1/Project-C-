@@ -5,3 +5,10 @@ C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vi
 C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.pdb
 C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.exe
 C:\Users\KIP\Desktop\VALAS\C#\Github KIP\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.pdb
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.exe.config
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.exe
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\bin\Debug\Vis C-1.pdb
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.csprojResolveAssemblyReference.cache
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.csproj.CoreCompileInputs.cache
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.exe
+D:\C#  Das\my project\GitHub\Project-C-\Vis C-1\Vis C-1\obj\Debug\Vis C-1.pdb
