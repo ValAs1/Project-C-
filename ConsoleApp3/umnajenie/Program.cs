@@ -16,11 +16,13 @@ namespace umnajenie
             double b = Convert.ToDouble(Console.ReadLine());
             Console.Write("a * b =  ");
             double ab = Convert.ToDouble(Console.ReadLine());
-            if ((a * b)== ab)
+            if ((a * b) == ab)
                 Console.WriteLine("true");
-           else
+            else
                 Console.WriteLine("false");
-           Console.ReadLine();
+            Console.ReadLine();
+
+
 
         }
     }
