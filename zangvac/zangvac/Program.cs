@@ -75,7 +75,10 @@ namespace zangvac
                 Console.WriteLine($"{i + 1} {iarray[i]}");
 
             }
-
+            //for (int i = 0; i < Array.Length; i++)
+            //{
+            //    Array[i] = Convert.ToInt32(Console.ReadLine());
+            //}
 
             Console.ReadLine();
 
