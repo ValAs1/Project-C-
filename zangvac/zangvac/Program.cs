@@ -59,22 +59,22 @@ namespace zangvac
 
             //int[] intArray = { 10, 20, 30, 4, 55, 67, 7, 8, 9, 17 };
 
-            Console.WriteLine("Enter your favourite 3 numbers");
+            //////////Console.WriteLine("Enter your favourite 3 numbers");
 
-            int num = int.Parse(Console.ReadLine());
+            //////////int num = int.Parse(Console.ReadLine());
 
-            int num1 = int.Parse(Console.ReadLine());
+            //////////int num1 = int.Parse(Console.ReadLine());
 
-            int num2 = int.Parse(Console.ReadLine());
+            //////////int num2 = int.Parse(Console.ReadLine());
 
-            int[] iarray = new int[3] { num, num1, num2 };
+            //////////int[] iarray = new int[3] { num, num1, num2 };
 
-            for (int i = 0; i < iarray.Length; i++)
-            {
+            //////////for (int i = 0; i < iarray.Length; i++)
+            //////////{
 
-                Console.WriteLine($"{i + 1} {iarray[i]}");
+            //////////    Console.WriteLine($"{i + 1} {iarray[i]}");
 
-            }
+            //////////}
             //for (int i = 0; i < Array.Length; i++)
             //{
             //    Array[i] = Convert.ToInt32(Console.ReadLine());
