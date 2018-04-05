@@ -31,6 +31,7 @@ namespace ConsoleApp2
                 }
                 Console.WriteLine();
             }
+            Console.ReadLine();
         }
     }
 }

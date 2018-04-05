@@ -10,16 +10,16 @@ namespace erkchap___zangvac
     {
         static void Main(string[] args)
         {
-            //int[,] arr = new int[9,9];
-            //for (int i = 0; i <9; i++)
-            //{
-            //    for (int j = 0; j < 9; j++)
-            //    {
+            int[,] arr = new int[9, 9];
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = 0; j < 9; j++)
+                {
 
-            //        Console.Write((i+1)*(j+1)+"\t");
-            //    }
-            //    Console.WriteLine();
-            //}
+                    Console.Write((i + 1) * (j + 1) + "\t");
+                }
+                Console.WriteLine();
+            }
 
             ///////////////////////////////////////////////////
 
@@ -55,22 +55,22 @@ namespace erkchap___zangvac
 
             /////////////////////////////////////////////
 
-            for (int i = 0; i < 4; i++)
-            {
-                for (int j = 0; j < 4; j++)
-                {
-                    if ((i + j) % 2 == 0)
-                    {
-                        Console.Write(1 + "\t");
-                    }
-                    else
-                    {
-                        Console.Write(0 + "\t");
-                    }
+            //for (int i = 0; i < 4; i++)
+            //{
+            //    for (int j = 0; j < 4; j++)
+            //    {
+            //        if ((i + j) % 2 == 0)
+            //        {
+            //            Console.Write(1 + "\t");
+            //        }
+            //        else
+            //        {
+            //            Console.Write(0 + "\t");
+            //        }
 
-                }
-                Console.WriteLine();
-            }
+            //    }
+            //    Console.WriteLine();
+            //}
 
             Console.ReadLine();
         }
