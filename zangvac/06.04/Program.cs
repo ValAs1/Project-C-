@@ -8,16 +8,17 @@ namespace _06._04
 {
     class Program
     {
-       
-            //static void Main(string[] args)
 
-            //{
+        //static void Main(string[] args)
 
-            //    Console.WriteLine("Enter a number for n and m.");
+        //{
 
-            //    int n = int.Parse(Console.ReadLine());
+        //    Console.WriteLine("Enter a number for n and m.");
 
-            //    int m = int.Parse(Console.ReadLine()); Num(n, m);
+        //    int n = int.Parse(Console.ReadLine());
+
+        //    int m = int.Parse(Console.ReadLine());
+     //        Num(n, m);
 
             //    Console.ReadLine();
             //}
